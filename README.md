@@ -1,8 +1,8 @@
 Online Saree Store (Shopify Project)
 
 Description:
-This project is an e-commerce website developed using Shopify.
-It allows users to browse saree collections, view product details, and make purchases online.
+This project is an e-commerce website developed using the Shopify platform.
+It allows users to browse saree collections, view detailed product information, and make purchases through a secure and user-friendly interface.
 
 Technologies Used:
 - HTML5
@@ -13,7 +13,7 @@ Technologies Used:
 Live Website:
 https://swarnika-sarees.myshopify.com/
 
-Password is: 
+Store Access Password:
 1234
 
 Developed By:
